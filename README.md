@@ -8,7 +8,7 @@ We don't collect any type of data. Octavia is a music bot and there is no need o
 No, When Octavia joins your voice channel it is set to self deaf and it can't hear anything.
 
 ### Can we read your messages?
-No, we can't read your messsaged and we don't need any type of your data.
+No, we can't read your messsages and we don't need any type of your data.
 
 ## If you have any types of questions contact us at:
 [Our support server](https://discord.gg/xrYTtWqCYm)
